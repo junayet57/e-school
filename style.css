@@ -1,0 +1,67 @@
+.top-nav{
+background: #F0FFF0;
+}
+.top-banner{
+    background: #F0FFF0;
+    padding: 100px 100px;
+}
+.top-banner, .features{
+    margin-bottom: 42px;
+}
+.nav-logo{
+width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+}
+.btn{
+text-align: center;
+color: white;    
+margin-top: 5px;
+padding: 5px 20px;
+background: #21B573;
+border: none;
+border-radius: 33px;
+cursor: pointer;
+}
+.nav-link{
+color: black;
+}
+.orange-bg{
+    color: #FD511A;
+}
+.lorem{
+    color: #6C6B6B;
+}
+span{
+    color: #21B573;;
+}
+.cat1, .cat2{
+    text-align: center;
+    width: 270px;
+    height: 270px;
+    left: 135px;
+    top: 618px;
+    padding: 50px;
+    border-radius: 10px;
+}
+.cat1{  
+background: #F8FFFB;
+border: none
+}
+.cat1 img{
+width: 66px;
+height: 85px;
+left: 231px;
+top: 672px;
+}
+.cat2{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.cat2 img{
+    width: 80px;
+    height: 83px;
+    left: 535px;
+    top: 670px;
+}
