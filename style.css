@@ -28,7 +28,8 @@
 }
 .btn{
     text-align: center;
-    color: white;    
+    color: white;
+    margin-top: 2px;    
     padding: 8px 28px;
     background: #21B573;
     border: none;
